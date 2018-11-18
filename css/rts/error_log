@@ -1,0 +1,89 @@
+[23-Apr-2012 17:25:10] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/mamutcom/public_html/rtsp/index.php on line 54
+[23-Apr-2012 19:42:38] PHP Parse error:  syntax error, unexpected ',' in /home/mamutcom/public_html/rtsp/index.php on line 66
+[23-Apr-2012 19:42:46] PHP Parse error:  syntax error, unexpected ',' in /home/mamutcom/public_html/rtsp/index.php on line 66
+[23-Apr-2012 19:43:45] PHP Parse error:  syntax error, unexpected ',' in /home/mamutcom/public_html/rtsp/index.php on line 66
+[23-Apr-2012 19:43:48] PHP Parse error:  syntax error, unexpected ',' in /home/mamutcom/public_html/rtsp/index.php on line 66
+[23-Apr-2012 19:43:50] PHP Parse error:  syntax error, unexpected ',' in /home/mamutcom/public_html/rtsp/index.php on line 66
+[23-Apr-2012 19:45:08] PHP Fatal error:  Cannot redeclare connecttodb() (previously declared in /home/mamutcom/public_html/rtsp/index.php:64) in /home/mamutcom/public_html/rtsp/php/connection.php on line 9
+[23-Apr-2012 19:54:42] PHP Fatal error:  Cannot redeclare connecttodb() (previously declared in /home/mamutcom/public_html/rtsp/index.php:64) in /home/mamutcom/public_html/rtsp/php/connection.php on line 9
+[23-Apr-2012 21:15:50] PHP Parse error:  syntax error, unexpected '<' in /home/mamutcom/public_html/rtsp/index.php on line 202
+[23-Apr-2012 21:19:07] PHP Parse error:  syntax error, unexpected '<' in /home/mamutcom/public_html/rtsp/index.php on line 202
+[23-Apr-2012 21:19:10] PHP Parse error:  syntax error, unexpected '<' in /home/mamutcom/public_html/rtsp/index.php on line 202
+[23-Apr-2012 21:19:43] PHP Parse error:  syntax error, unexpected '<' in /home/mamutcom/public_html/rtsp/index.php on line 202
+[23-Apr-2012 21:19:45] PHP Parse error:  syntax error, unexpected '<' in /home/mamutcom/public_html/rtsp/index.php on line 202
+[23-Apr-2012 21:19:47] PHP Parse error:  syntax error, unexpected '<' in /home/mamutcom/public_html/rtsp/index.php on line 202
+[23-Apr-2012 21:19:49] PHP Parse error:  syntax error, unexpected '<' in /home/mamutcom/public_html/rtsp/index.php on line 202
+[23-Apr-2012 21:57:09] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 21
+[23-Apr-2012 22:00:12] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[23-Apr-2012 22:02:33] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[23-Apr-2012 22:08:00] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[23-Apr-2012 22:08:07] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[23-Apr-2012 22:08:14] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[23-Apr-2012 22:09:13] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[24-Apr-2012 13:38:26] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[24-Apr-2012 13:38:34] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[24-Apr-2012 13:41:05] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[24-Apr-2012 13:48:03] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[24-Apr-2012 14:41:11] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[24-Apr-2012 14:41:15] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[24-Apr-2012 18:15:29] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[24-Apr-2012 18:15:30] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[24-Apr-2012 18:15:31] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[24-Apr-2012 18:16:12] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 27
+[24-Apr-2012 18:38:12] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 21
+[24-Apr-2012 18:38:16] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 21
+[24-Apr-2012 18:38:56] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 21
+[24-Apr-2012 18:39:00] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 21
+[24-Apr-2012 18:44:09] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 21
+[24-Apr-2012 18:44:15] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 21
+[24-Apr-2012 18:47:05] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 21
+[24-Apr-2012 18:47:09] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 21
+[24-Apr-2012 18:47:12] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 21
+[24-Apr-2012 18:47:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 29
+[24-Apr-2012 18:49:01] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 29
+[24-Apr-2012 18:49:06] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 29
+[24-Apr-2012 19:03:04] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:03:09] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:05:21] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:07:22] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:08:38] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:08:47] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:10:06] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:11:28] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:14:14] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:14:19] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:14:28] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:14:33] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:14:36] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:14:43] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:16:17] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:16:22] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:17:39] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:17:44] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:17:49] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 30
+[24-Apr-2012 19:30:38] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 31
+[24-Apr-2012 19:30:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 31
+[24-Apr-2012 19:30:49] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 31
+[24-Apr-2012 19:33:36] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 31
+[24-Apr-2012 19:33:42] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 31
+[24-Apr-2012 19:33:53] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 31
+[24-Apr-2012 19:33:58] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 31
+[24-Apr-2012 19:35:18] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 33
+[24-Apr-2012 19:35:24] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 33
+[24-Apr-2012 19:44:37] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 29
+[24-Apr-2012 19:47:40] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 29
+[24-Apr-2012 19:47:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 29
+[24-Apr-2012 19:48:28] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 25
+[24-Apr-2012 19:48:33] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 25
+[24-Apr-2012 19:48:41] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 25
+[24-Apr-2012 19:48:44] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 25
+[24-Apr-2012 19:50:06] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 25
+[24-Apr-2012 19:50:10] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 25
+[24-Apr-2012 19:50:13] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mamutcom/public_html/rtsp/getvalues.php on line 25
+[24-Apr-2012 19:51:24] PHP Parse error:  syntax error, unexpected $end in /home/mamutcom/public_html/rtsp/getvalues.php on line 32
+[24-Apr-2012 19:51:29] PHP Parse error:  syntax error, unexpected $end in /home/mamutcom/public_html/rtsp/getvalues.php on line 32
+[24-Apr-2012 19:54:33] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 29
+[24-Apr-2012 19:54:40] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 29
+[24-Apr-2012 20:38:46] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 29
+[24-Apr-2012 20:41:10] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 29
+[24-Apr-2012 20:41:18] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/mamutcom/public_html/rtsp/getvalues.php on line 29
